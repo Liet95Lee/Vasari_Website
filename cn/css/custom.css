@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Vasari-Regular";
-    src: url("/fonts/Beaufort W01 Regular/Beaufort W01 Regular.eot");
+    src: url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.eot");
     /* IE9*/
-    src: url("/fonts/Beaufort W01 Regular/Beaufort W01 Regular.eot?#iefix") format("embedded-opentype"),
-        url("/fonts/Beaufort W01 Regular/Beaufort W01 Regular.woff2") format("woff2"),
-        url("/fonts/Beaufort W01 Regular/Beaufort W01 Regular.woff") format("woff"),
-        url("/fonts/Beaufort W01 Regular/Beaufort W01 Regular.ttf") format("truetype"),
-        url("/fonts/Beaufort W01 Regular/Beaufort W01 Regular.svg#Beaufort W01 Regular") format("svg");
+    src: url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.eot?#iefix") format("embedded-opentype"),
+        url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.woff2") format("woff2"),
+        url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.woff") format("woff"),
+        url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.ttf") format("truetype"),
+        url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.svg#Beaufort W01 Regular") format("svg");
     /* iOS 4.1- */
     font-style: normal;
     font-display: swap;

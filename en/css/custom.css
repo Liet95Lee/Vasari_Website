@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Vasari-Regular";
-            src: url("https://www.megapipe.my/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.eot"); /* IE9*/
-            src: url("https://www.megapipe.my/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-            url("https://www.megapipe.my/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.woff2") format("woff2"), /* chrome、firefox */
-            url("https://www.megapipe.my/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.woff") format("woff"), /* chrome、firefox */
-            url("https://www.megapipe.my/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-            url("https://www.megapipe.my/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.svg#Beaufort W01 Regular") format("svg"); /* iOS 4.1- */
+            src: url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.eot"); /* IE9*/
+            src: url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+            url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.woff2") format("woff2"), /* chrome、firefox */
+            url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.woff") format("woff"), /* chrome、firefox */
+            url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+            url("https://www.vasarimalaysia.com/assets/fonts/Beaufort W01 Regular/Beaufort W01 Regular.svg#Beaufort W01 Regular") format("svg"); /* iOS 4.1- */
             font-style: normal;
             font-display: swap;
 }
@@ -502,7 +502,7 @@ ul.Client-Logos li:nth-child(9) img {
 
 .background-cacbcd {
     background-color: #cacbcd;
-    background-image: url('https://www.megapipe.my/assets/images/V61-Brume-Quarter.jpg') !important;
+    background-image: url('https://www.vasarimalaysia.com/assets/images/V61-Brume-Quarter.jpg') !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -526,7 +526,7 @@ ul.Client-Logos li:nth-child(9) img {
 .video-sound-overlay {
     width: 100%;
     height: 100%;
-    background-image: url('https://www.megapipe.my/assets/images/big play button.png');
+    background-image: url('https://www.vasarimalaysia.com/assets/images/big play button.png');
     background-repeat: no-repeat;
     position: absolute;
     left: 0%;
@@ -965,7 +965,7 @@ ul.Collabor-Logos li:nth-child(11) img {
 /*    -webkit-background-size: cover !important;*/
 /*    background-repeat: no-repeat !important;*/
 /*    outline: none;*/
-/*    background-image: url('https://www.megapipe.my/assets/images/Feature/Unique 08.jpg');*/
+/*    background-image: url('https://www.vasarimalaysia.com/assets/images/Feature/Unique 08.jpg');*/
 /*    background-position: center;*/
 /*}*/
 
@@ -984,7 +984,7 @@ ul.Collabor-Logos li:nth-child(11) img {
     -webkit-background-size: 100% auto !important;
     background-repeat: no-repeat !important;
     outline: none;
-    background-image: url('https://www.megapipe.my/assets/images/Italy Caves.jpg');
+    background-image: url('https://www.vasarimalaysia.com/assets/images/Italy Caves.jpg');
     background-position: center;
 }
 
@@ -1014,7 +1014,7 @@ ul.Collabor-Logos li:nth-child(11) img {
     background-size: cover !important;
     background-repeat: no-repeat !important;
     outline: none;
-    background-image: url('https://www.megapipe.my/assets/images/Showroom Background.jpg');
+    background-image: url('https://www.vasarimalaysia.com/assets/images/Showroom Background.jpg');
     background-position: center;
 }
 
@@ -1034,7 +1034,7 @@ ul.Collabor-Logos li:nth-child(11) img {
     background-size: cover !important;
     background-repeat: no-repeat !important;
     outline: none;
-    background-image: url('https://www.megapipe.my/assets/images/Vasari Background Pearl.jpg');
+    background-image: url('https://www.vasarimalaysia.com/assets/images/Vasari Background Pearl.jpg');
     background-position: center;
 }
 
@@ -1162,8 +1162,8 @@ ul.Collabor-Logos li:nth-child(11) img {
 
 .hero-jack .hero-img .layer:first-of-type {
     height: 100%;
-    -webkit-mask-image: url('https://www.megapipe.my/assets/images/Background Wall.png');
-    mask-image: url('https://www.megapipe.my/assets/images/Background Wall.png');
+    -webkit-mask-image: url('https://www.vasarimalaysia.com/assets/images/Background Wall.png');
+    mask-image: url('https://www.vasarimalaysia.com/assets/images/Background Wall.png');
     -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
     -webkit-mask-position: center;
@@ -1182,7 +1182,7 @@ ul.Collabor-Logos li:nth-child(11) img {
     left: 0;
     height: 100%;
     width: 100%;
-    background-image: url('https://www.megapipe.my/assets/images/V61-Brume-Quarter.jpg');
+    background-image: url('https://www.vasarimalaysia.com/assets/images/V61-Brume-Quarter.jpg');
     background-size: cover;
 }
 
@@ -1211,8 +1211,8 @@ ul.Collabor-Logos li:nth-child(11) img {
     }
     
     .hero-jack .hero-img .layer:first-of-type {
-        -webkit-mask-image: url('https://www.megapipe.my/assets/images/Background Wall Mobile.png');
-        mask-image: url('https://www.megapipe.my/assets/images/Background Wall Mobile.png');
+        -webkit-mask-image: url('https://www.vasarimalaysia.com/assets/images/Background Wall Mobile.png');
+        mask-image: url('https://www.vasarimalaysia.com/assets/images/Background Wall Mobile.png');
     }
     
     .hero-jack .hero-img .layer img {
@@ -1241,8 +1241,8 @@ ul.Collabor-Logos li:nth-child(11) img {
 
 .hero-Artisans .hero-img .layer:first-of-type {
     height: 100%;
-    -webkit-mask-image: url('https://www.megapipe.my/assets/images/Background Wall.png');
-    mask-image: url('https://www.megapipe.my/assets/images/Background Wall.png');
+    -webkit-mask-image: url('https://www.vasarimalaysia.com/assets/images/Background Wall.png');
+    mask-image: url('https://www.vasarimalaysia.com/assets/images/Background Wall.png');
     -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
     -webkit-mask-position: center;
