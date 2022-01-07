@@ -4,6 +4,10 @@ Vasari Salespage Landing Page
 
     https://www.vasarimalaysia.com/
     ├── assets                  # Compiled files (alternatively `dist`)
+    │   ├── css                 
+    │   ├── fonts               
+    │   ├── images              
+    │   └── js                  
     ├── cn                      # Chinese Page https://www.vasarimalaysia.com/cn/
     ├── en                      # English Page https://www.vasarimalaysia.com/en/
     └── my                      # Malay Page   https://www.vasarimalaysia.com/my/
