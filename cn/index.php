@@ -1466,7 +1466,7 @@
                             </div>
                             <div class="elImageWrapper de-image-block txt-center twidth_60 MarginAuto MarginTop0 de-editable dmt_20 tmt_20 mmt_15"
                                 id="" data-title="image">
-                                <img src="https://www.vasarimalaysia.com/assets/images/Vasari South East Asia.png"
+                                <img src="https://www.vasarimalaysia.com/assets/images/Vasari-Asia-Map-2022.png"
                                     class="elIMG" alt="">
                             </div>
                         </div>
@@ -1496,24 +1496,31 @@
                     </div>
                 </div>
                 <div class="row dwidth_95 MarginAuto dmt_30 tmt_25 mmt_0" data-title="Row">
-                    <div id="" class="col-md-4 col-mt-4 innerContent col_left" data-title="full column">
+                    <div id="" class="col-md-3 col-mt-3 innerContent col_left" data-title="full column">
                         <div class="col-inner">
                             <div class="elImageWrapper de-image-block txt-center MarginTop0 de-editable dmt_20" id="" data-title="image">
                                 <img src="https://www.vasarimalaysia.com/assets/images/Product/Vasari Series Veneziano.jpg" class="elIMG" alt="">
                             </div>
                         </div>
                     </div>
-                    <div id="" class="col-md-4 col-mt-4 innerContent col_left" data-title="full column">
+                    <div id="" class="col-md-3 col-mt-3 innerContent col_left" data-title="full column">
                         <div class="col-inner">
                             <div class="elImageWrapper de-image-block txt-center MarginTop0 de-editable dmt_20 mmt_15" id="" data-title="image">
                                 <img src="https://www.vasarimalaysia.com/assets/images/Product/Vasari Series Marmorino.jpg" class="elIMG" alt="">
                             </div>
                         </div>
                     </div>
-                    <div id="" class="col-md-4 col-mt-4 innerContent col_left" data-title="full column">
+                    <div id="" class="col-md-3 col-mt-3 innerContent col_left" data-title="full column">
                         <div class="col-inner">
                             <div class="elImageWrapper de-image-block txt-center MarginTop0 de-editable dmt_20 mmt_15" id="" data-title="image">
                                 <img src="https://www.vasarimalaysia.com/assets/images/Product/Vasari Series Stucco.jpg" class="elIMG" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div id="" class="col-md-3 col-mt-3 innerContent col_left" data-title="full column">
+                        <div class="col-inner">
+                            <div class="elImageWrapper de-image-block txt-center MarginTop0 de-editable dmt_20 mmt_15" id="" data-title="image">
+                                <img src="https://www.vasarimalaysia.com/assets/images/Product/Vasari Series Corso.jpg" class="elIMG" alt="">
                             </div>
                         </div>
                     </div>
