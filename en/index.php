@@ -1336,7 +1336,7 @@
                             </div>
                             <div class="elImageWrapper de-image-block txt-center MarginTop0 de-editable dmt_20 mmt_15"
                                 id="" data-title="image">
-                                <img src="https://www.vasarimalaysia.com/assets/images/Vasari-Asia-Map-2022.png" class="elIMG" alt="">
+                                <img src="https://www.vasarimalaysia.com/assets/images/Vasari-Asia-Map-2023.png" class="elIMG" alt="">
                             </div>
                         </div>
                     </div>

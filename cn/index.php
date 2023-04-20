@@ -1466,7 +1466,7 @@
                             </div>
                             <div class="elImageWrapper de-image-block txt-center twidth_60 MarginAuto MarginTop0 de-editable dmt_20 tmt_20 mmt_15"
                                 id="" data-title="image">
-                                <img src="https://www.vasarimalaysia.com/assets/images/Vasari-Asia-Map-2022.png"
+                                <img src="https://www.vasarimalaysia.com/assets/images/Vasari-Asia-Map-2023.png"
                                     class="elIMG" alt="">
                             </div>
                         </div>
